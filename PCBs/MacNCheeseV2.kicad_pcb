@@ -1672,7 +1672,7 @@
 			(uuid "c67f2129-f466-404e-a3ba-238eb7595d5a")
 		)
 		(fp_text user "K"
-			(at 0 -2.1 90)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "036241bb-3322-4c9d-bff0-1c30e58761d6")
 			(effects
@@ -1694,7 +1694,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 -2.1 90)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "79143e15-13b6-4f89-b945-7828b64a4660")
 			(effects
@@ -13387,6 +13387,18 @@
 		)
 		(uuid "ad4ca39b-a370-42f3-ae74-b95bbcb28384")
 	)
+	(gr_text "7763"
+		(at 136.75 32.75 0)
+		(layer "F.SilkS")
+		(uuid "25dd1769-5e45-43a8-bc72-e3ee73efdefa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "XIAO HERE"
 		(at 144.5 50.25 0)
 		(layer "F.SilkS")
@@ -13403,6 +13415,18 @@
 		(at 122.75 111.5 0)
 		(layer "F.SilkS")
 		(uuid "8dc50d4a-cd01-4f91-8d6e-100484a5a364")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Emily is Awesome!!"
+		(at 62.75 65.25 270)
+		(layer "F.SilkS")
+		(uuid "94021e09-5fd6-4b3a-bd91-44c5121470a8")
 		(effects
 			(font
 				(size 1 1)
@@ -13459,7 +13483,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Why?"
+	(gr_text "What a Super Idea"
 		(at 64 32.75 0)
 		(layer "F.SilkS")
 		(uuid "f5dd4adf-e95d-4965-8e72-432259c6adc1")
