@@ -4,7 +4,7 @@ The MacAndCheese-ropad is a 4x4 macropad running on a Xiao RP2040. All 16 of the
 
 The MacAndCheese-ropad is intended to be used for daily tasks like copying, pasting, taking a screenshot, ect. THe buttons can also be used as extra function buttons (up to 8 on MacOS and 12 on Windows). Using more adanced software, the buttons could be tied to app specific functions or really anything that can be run on a computer.
 
-> Learn more about button use for QMK [here]([url](https://docs.qmk.fm/keycodes_basic))
+> Learn more about button use for QMK here: https://docs.qmk.fm/keycodes_basic
 
 I built the MacAndCheese-ropad because I thought it would be a fun but not to hard challage, it has been just as expected. While some of it was smooth sailing a lot was feeling like I was in the dark on many things, however I was able to pull through and continue the project. I hope this macropad makes me more productive and proud to have somthing I worked hard on be usful to me.
 
@@ -24,4 +24,4 @@ The PCB uses a matrix to support all 16 keys, a photo of the PCB in KiCad is bel
 
 ## The Firmware
 
-The MacAndCheese-ropad uses the [QMK]([url](https://qmk.fm/)) firmware to give the keys uses, currentally the firmware is set up with 2 layers of keys. (The exact set up is in the repo).
+The MacAndCheese-ropad uses the QMK firmware to give the keys uses, currentally the firmware is set up with 2 layers of keys. (The exact set up is in the repo).
