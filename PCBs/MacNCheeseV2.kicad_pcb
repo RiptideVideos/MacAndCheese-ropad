@@ -72,7 +72,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -11865,19 +11865,88 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 61.9125 30.95625)
-		(end 164.30625 111.91875)
+	(gr_line
+		(start 63 30.95625)
+		(end 63 111.91875)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "bdcdd567-4741-4ee4-8e18-61b289a910d5")
+		(uuid "43b33b57-4233-4d24-a16a-185e745210ea")
+	)
+	(gr_line
+		(start 63 111.91875)
+		(end 145 111.91875)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4a922ebe-482f-471e-b721-3fef8f5da583")
+	)
+	(gr_line
+		(start 163 30.95625)
+		(end 163 66)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5f299f5e-ae96-4dfc-997b-b3278c68d6b2")
+	)
+	(gr_line
+		(start 145 111.91875)
+		(end 145 90)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "70d19b48-d066-416b-9b04-6c4ace3987ac")
+	)
+	(gr_line
+		(start 163 30.95625)
+		(end 63 30.95625)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "86d02540-b7d5-4572-9e6f-e954cf41eb8a")
+	)
+	(gr_line
+		(start 149 66)
+		(end 149 90)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9c127ef0-7773-4f89-94c5-a92d0f66e8ee")
+	)
+	(gr_line
+		(start 163 66)
+		(end 149 66)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e6b0da0d-6bdd-4733-b236-7ec8a0a22e07")
+	)
+	(gr_line
+		(start 149 90)
+		(end 145 90)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fb328e60-1de2-434e-ab83-5ea818770e75")
 	)
 	(image
-		(at 152.400001 61.9125)
+		(at 152.000001 61.000001)
 		(layer "F.SilkS")
 		(scale 0.079506)
 		(data "iVBORw0KGgoAAAANSUhEUgAAAqgAAAGkCAYAAAD9kte6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz"
@@ -13424,7 +13493,7 @@
 		)
 	)
 	(gr_text "Emily is Awesome!!"
-		(at 62.75 65.25 270)
+		(at 65 55 270)
 		(layer "F.SilkS")
 		(uuid "94021e09-5fd6-4b3a-bd91-44c5121470a8")
 		(effects
@@ -13448,37 +13517,13 @@
 		)
 	)
 	(gr_text "Go Heels"
-		(at 157.25 32.75 0)
+		(at 142 32.75 0)
 		(layer "F.SilkS")
 		(uuid "b5f52448-3eb8-4636-8d54-d4fdca3a43c6")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "Designed by Simon Crystal\nDiseñado por Simon Crystal\nConçu par Simon Crystal\nEntworfen von Simon Crystal\nProgettato da Simon Crystal\nDesenvolvido por Simon Crystal\nDirancang oleh Simon Crystal\nSimon Crystal tarafından tasarlandı\nĐược thiết kế bởi Simon Crystal\nImeundwa na Simon Crystal\nAn ƙera ta Simon Crystal\nDizajnirao Simon Crystal\nOntworpen door Simon Crystal\nZaprojektowane przez Simon Crystal\nNavrženo Simonem Crystalem\nTervezett: Simon Crystal\nDiseñado por Simon Crystal\nDissenyat per Simon Crystal\nDissennat da Simon Crystal\nDizajnoval Simon Crystal\nKujundusel Simon Crystal\nSukurtą Simon Crystal\nIzstrādājis Simon Crystal\nDizajnirao Simon Crystal\nDiseñado por Simon Crystal"
-		(at 163.5 111.5 0)
-		(layer "F.SilkS")
-		(uuid "b6ba4850-ba5b-4095-b86f-0e9446ac5ea7")
-		(effects
-			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
-			)
-			(justify right bottom)
-		)
-	)
-	(gr_text "All that I know is that I wanna dance with ya\nMove in closer before I'm gon' kiss ya\nKnow that you know me, don't act stupid\nYou seem different, tired of these groupies\nI'm on fire, won't find figga\nGot big shots saying, {dblquote}That's that -----{dblquote}\nHovy with glasses, Weezy but geeky\nGirls in the lobby tryin' to meet me\nI ain't afraid to say it, yeah, I love these ----\nAnd their glasses, and their jacket, and their hipster clothes\nYes, I'm always on tour, what you mad at that for?\nSlamming that thing like a Cadillac door\nI love fast women, Jackie Joyner-Kersee\nHave your cake and eat it, baby, it's your birthday"
-		(at 145.25 75 0)
-		(layer "F.SilkS")
-		(uuid "b9b98727-e15b-4503-a6ee-6d25b06660c9")
-		(effects
-			(font
-				(size 0.3 0.3)
-				(thickness 0.075)
 			)
 			(justify left bottom)
 		)
@@ -14376,20 +14421,28 @@
 		(uuid "e67dd21c-d270-4a8e-9375-ba3c0e8c1413")
 	)
 	(segment
-		(start 160.025 52.86375)
-		(end 160.025 73.3375)
+		(start 159.13625 52.86375)
+		(end 160.025 52.86375)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 24)
-		(uuid "12b1a97e-b52b-46e4-90fa-61e9f43d44f6")
+		(uuid "03a6acbd-f3fc-4e08-b255-e0ca9f328b14")
 	)
 	(segment
-		(start 160.025 73.3375)
-		(end 138.1125 95.25)
+		(start 147 65)
+		(end 159.13625 52.86375)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 24)
-		(uuid "30fe6bdc-aa29-4941-9d11-d09391bbc883")
+		(uuid "3c5cfccb-2607-4ec4-8e9d-cdf95e1dd7f5")
+	)
+	(segment
+		(start 138.900058 95.25)
+		(end 147 87.150058)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "6516b64f-3302-4ba3-bad9-44945685c7f2")
 	)
 	(segment
 		(start 114.3 95.25)
@@ -14398,6 +14451,22 @@
 		(layer "B.Cu")
 		(net 24)
 		(uuid "7b05586f-eae8-41b1-82b0-9c1a1ef14b55")
+	)
+	(segment
+		(start 133.35 95.25)
+		(end 138.900058 95.25)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "a768cfdd-66ce-41ba-870d-caed075c2eb7")
+	)
+	(segment
+		(start 147 87.150058)
+		(end 147 65)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 24)
+		(uuid "d8ee6c9e-aab9-404e-b106-98656207497d")
 	)
 	(segment
 		(start 95.25 95.25)
@@ -14422,14 +14491,6 @@
 		(layer "B.Cu")
 		(net 24)
 		(uuid "f7a56002-3260-4495-a69e-1c72a9a47759")
-	)
-	(segment
-		(start 138.1125 95.25)
-		(end 133.35 95.25)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 24)
-		(uuid "ff27e38f-6564-40a7-83f1-321a56804f9a")
 	)
 	(embedded_fonts no)
 )
