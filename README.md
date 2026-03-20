@@ -28,9 +28,11 @@ The MacAndCheese-ropad uses the QMK firmware to give the keys uses, currentally 
 
 ## Bill of Materials
 
-| Item | Qty | Source |
-|------|-----|--------|
-| Seeed XIAO RP2040 | 1 | Provided by Hackpad |
-| 1N4148 Diodes | 16 | Provided by Hackpad |
-| Cherry MX Switches | 16 | Provided by Hackpad |
-| DSA Keycaps | 16 | Provided by Hackpad |
+| Item | Qty | Source | Price | Unit Price | Provided by Hackpad? |
+|------|-----|--------|-------|------------|----------------------|
+| Seeed XIAO RP2040 | 1 | https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html | $3.99 | $3.99 | Yes |
+| 1N4148 Diodes | 16 | https://www.amazon.com/dp/B06XB1R2NK | ~$0.05	| $4.99 | Yes |
+| Cherry MX Switches | 16 | https://www.amazon.com/Cherry-Switch-Mechanical-Keyboard-Switches/ | $0.55	| $19.99 | Yes |
+| DSA Keycaps | 16 | https://www.amazon.com/Mechkeeb-Profile-Switches-Keyboard-Replacement/dp/B0BWDQ3NKK | ~$0.37 | $8.99 | Yes |
+| PCB | 1 | JLC PCB | $4-7 | $4-7 | Via Grant |
+| Soldering Iron | 1 | https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/ | $25.99 | $25.99 | Via Grant |
