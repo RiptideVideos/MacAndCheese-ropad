@@ -25,3 +25,12 @@ The PCB uses a matrix to support all 16 keys, a photo of the PCB in KiCad is bel
 ## The Firmware
 
 The MacAndCheese-ropad uses the QMK firmware to give the keys uses, currentally the firmware is set up with 2 layers of keys. (The exact set up is in the repo).
+
+## Bill of Materials
+
+| Item | Qty | Source |
+|------|-----|--------|
+| Seeed XIAO RP2040 | 1 | Provided by Hackpad |
+| 1N4148 Diodes | 16 | Provided by Hackpad |
+| Cherry MX Switches | 16 | Provided by Hackpad |
+| DSA Keycaps | 16 | Provided by Hackpad |
