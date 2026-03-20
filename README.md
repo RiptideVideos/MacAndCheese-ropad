@@ -37,6 +37,6 @@ The MacAndCheese-ropad uses the QMK firmware to give the keys uses, currentally 
 | PCB | 1 | JLC PCB | $4-7 | $4-7 | Via Grant |
 | Soldering Iron | 1 | https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/ | $25.99 | $25.99 | Via Grant |
 
-> Notes ob BOM:
+> Notes on BOM:
 > The PCB price changes based on color, settings and deliver option.
 > The exact Soldering Iron isn't needed for this project and you could get others online.
