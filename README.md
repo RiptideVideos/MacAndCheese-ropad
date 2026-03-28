@@ -13,6 +13,8 @@ I built the MacAndCheese-ropad because I thought it would be a fun but not to ha
 The design features 16 square keys layed out in a 4x4 grid.
 - The keys are Cherry MX switches.
 - There is a empty space right of the keys which holds the Xiao RP2040.
+
+> Onshape File: https://cad.onshape.com/documents/c366476147c6a16a111f20a0/w/74e1df7ada6eec6626497acf/e/e85a476c3b104135c352d93f?renderMode=0&uiState=69c80dd1942be0583aa661a2
  
 <img width="1694" height="840" alt="Screenshot 2026-03-14 at 8 59 48 AM" src="https://github.com/user-attachments/assets/8a566c84-eac2-4db5-987d-4f260491b56b" />
 
